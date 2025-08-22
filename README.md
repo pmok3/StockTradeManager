@@ -1,1 +1,1 @@
-# StockTradeManager
+# Trade Helper
